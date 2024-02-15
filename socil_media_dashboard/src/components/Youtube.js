@@ -17,7 +17,7 @@ const YouTube = () => {
             q: searchQuery,
             type: "video",
             maxResults: 9,
-            key: "", // API key here.. removed 
+            key: "", //  Get an API key and enter here.====== removed =====
           },
         }
       );

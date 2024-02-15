@@ -5,7 +5,7 @@ const Facebook = () => {
     // Load the 1 Facebook SDK script
     const script1 = document.createElement("script");
     script1.src =
-      "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v19.0&appId=1034413500993177";
+      "https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v19.0&appId=1034413500993177"; // change according to the page
     script1.async = true;
     script1.defer = true;
     script1.crossOrigin = "anonymous";

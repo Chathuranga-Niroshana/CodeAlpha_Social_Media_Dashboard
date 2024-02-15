@@ -8,7 +8,7 @@ const Instagram = () => {
       target: "instafeed-container",
       resolution: "low_resolution",
       accessToken:
-        "", // Accses token here. removed 
+        "", // Get an Accses token and enter here.====== removed =====
       error: (error) => {
         console.error("Instafeed Error:", error);
       },
